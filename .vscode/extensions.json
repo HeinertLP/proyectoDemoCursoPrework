@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "esbenp.prettier-vscode",
+        "naumovs.color-highlight",
+        "ritwickdey.liveserver",
+        "christian-kohler.path-intellisense"
+    ]
+}
